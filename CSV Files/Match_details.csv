@@ -1,0 +1,59 @@
+﻿season,Match_ID,match_name,home_team,away_team,toss_won,decision,1st_inning_score,2nd_inning_score,home_score,away_score,winner,result
+2024,1422119,Chennai Super Kings v Royal Challengers Bengaluru,CSK,RCB,RCB,BAT FIRST,173/6,176/4,176/4,173/6,CSK,CSK won by 6 wkts (8b rem)
+2024,1422120,Punjab Kings v Delhi Capitals,PBKS,DC,KXIP,BOWL FIRST,174/9,177/6,177/6,174/9,PBKS,PBKS won by 4 wkts (4b rem)
+2024,1422121,Kolkata Knight Riders v Sunrisers Hyderabad,KKR,SRH,SRH,BOWL FIRST,208/7,204/7,208/7,204/7,KKR,KKR won by 4 runs
+2024,1422122,Rajasthan Royals v Lucknow Super Giants,RR,LSG,RR,BAT FIRST,193/4,173/6,193/4,173/6,RR,RR won by 20 runs
+2024,1422123,Gujarat Titans v Mumbai Indians,GT,MI,MI,BOWL FIRST,168/6,162/9,168/6,162/9,GT,GT won by 6 runs
+2024,1422124,Royal Challengers Bengaluru v Punjab Kings,RCB,PBKS,RCB,BOWL FIRST,176/6,178/6,178/6,176/6,RCB,RCB won by 4 wkts (4b rem)
+2024,1422125,Chennai Super Kings v Gujarat Titans,CSK,GT,GT,BOWL FIRST,206/6,143/8,206/6,143/8,CSK,CSK won by 63 runs
+2024,1422126,Sunrisers Hyderabad v Mumbai Indians,SRH,MI,MI,BOWL FIRST,277/3,246/5,277/3,246/5,SRH,SRH won by 31 runs
+2024,1422127,Rajasthan Royals v Delhi Capitals,RR,DC,DC,BOWL FIRST,185/5,173/5,185/5,173/5,RR,RR won by 12 runs
+2024,1422128,Royal Challengers Bengaluru v Kolkata Knight Riders,RCB,KKR,KKR,BOWL FIRST,182/6,186/3,182/6,186/3,KKR,KKR won by 7 wkts (19b rem)
+2024,1422129,Lucknow Super Giants v Punjab Kings,LSG,PBKS,LSG,BAT FIRST,199/8,178/5,199/8,178/5,LSG,LSG won by 21 runs
+2024,1422130,Gujarat Titans v Sunrisers Hyderabad,GT,SRH,SRH,BAT FIRST,162/8,168/3,168/3,162/8,GT,GT won by 7 wkts (5b rem)
+2024,1422131,Delhi Capitals v Chennai Super Kings,DC,CSK,DC,BAT FIRST,191/5,171/6,191/5,171/6,DC,DC won by 20 runs
+2024,1422132,Mumbai Indians v Rajasthan Royals,MI,RR,RR,BOWL FIRST,125/9,127/4,125/9,127/4,RR,RR won by 6 wkts (27b rem)
+2024,1422133,Royal Challengers Bengaluru v Lucknow Super Giants,RCB,LSG,RCB,BOWL FIRST,181/5,153,153,181/5,LSG,LSG won by 28 runs
+2024,1422134,Delhi Capitals v Kolkata Knight Riders,DC,KKR,KKR,BAT FIRST,272/7,166,166,272/7,KKR,KKR won by 106 runs
+2024,1422135,Gujarat Titans v Punjab Kings,GT,PBKS,KXIP,BOWL FIRST,199/4,200/7,199/4,200/7,PBKS,PBKS won by 3 wkts (1b rem)
+2024,1422136,Sunrisers Hyderabad v Chennai Super Kings,SRH,CSK,SRH,BOWL FIRST,165/5,166/4,166/4,165/5,SRH,SRH won by 6 wkts (11b rem)
+2024,1422137,Rajasthan Royals v Royal Challengers Bengaluru,RR,RCB,RR,BOWL FIRST,183/3,189/4,189/4,183/3,RR,RR won by 6 wkts (5b rem)
+2024,1422138,Mumbai Indians v Delhi Capitals,MI,DC,DC,BOWL FIRST,234/5,205/8,234/5,205/8,MI,MI won by 29 runs
+2024,1422139,Lucknow Super Giants v Gujarat Titans,LSG,GT,LSG,BAT FIRST,163/5,130,163/5,130,LSG,LSG won by 33 runs
+2024,1426260,Chennai Super Kings v Kolkata Knight Riders,CSK,KKR,CSK,BOWL FIRST,137/9,141/3,141/3,137/9,CSK,CSK won by 7 wkts (14b rem)
+2024,1426261,Punjab Kings v Sunrisers Hyderabad,PBKS,SRH,KXIP,BOWL FIRST,182/9,180/6,180/6,182/9,SRH,SRH won by 2 runs
+2024,1426262,Rajasthan Royals v Gujarat Titans,RR,GT,GT,BOWL FIRST,196/3,199/7,196/3,199/7,GT,GT won by 3 wkts (0b rem)
+2024,1426263,Mumbai Indians v Royal Challengers Bengaluru,MI,RCB,MI,BOWL FIRST,196/8,199/3,199/3,196/8,MI,MI won by 7 wkts (27b rem)
+2024,1426264,Lucknow Super Giants v Delhi Capitals,LSG,DC,LSG,BAT FIRST,167/7,170/4,167/7,170/4,DC,DC won by 6 wkts (11b rem)
+2024,1426265,Punjab Kings v Rajasthan Royals,PBKS,RR,RR,BOWL FIRST,147/8,152/7,147/8,152/7,RR,RR won by 3 wkts (1b rem)
+2024,1426266,Kolkata Knight Riders v Lucknow Super Giants,KKR,LSG,KKR,BOWL FIRST,161/7,162/2,162/2,161/7,KKR,KKR won by 8 wkts (26b rem)
+2024,1426267,Mumbai Indians v Chennai Super Kings,MI,CSK,MI,BOWL FIRST,206/4,186/6,186/6,206/4,CSK,CSK won by 20 runs
+2024,1426268,Royal Challengers Bengaluru v Sunrisers Hyderabad,RCB,SRH,RCB,BOWL FIRST,287/3,262/7,262/7,287/3,SRH,SRH won by 25 runs
+2024,1426269,Kolkata Knight Riders v Rajasthan Royals,KKR,RR,RR,BOWL FIRST,223/6,224/8,223/6,224/8,RR,RR won by 2 wkts (0b rem)
+2024,1426270,Gujarat Titans v Delhi Capitals,GT,DC,DC,BOWL FIRST,89,92/4,89,92/4,DC,DC won by 6 wkts (67b rem)
+2024,1426271,Punjab Kings v Mumbai Indians,PBKS,MI,KXIP,BOWL FIRST,192/7,183,183,192/7,MI,MI won by 9 runs
+2024,1426272,Lucknow Super Giants v Chennai Super Kings,LSG,CSK,LSG,BOWL FIRST,176/6,180/2,180/2,176/6,LSG,LSG won by 8 wkts (6b rem)
+2024,1426273,Delhi Capitals v Sunrisers Hyderabad,DC,SRH,DC,BOWL FIRST,266/7,199,199,266/7,SRH,SRH won by 67 runs
+2024,1426274,Kolkata Knight Riders v Royal Challengers Bengaluru,KKR,RCB,RCB,BOWL FIRST,222/6,221,222/6,221,KKR,KKR won by 1 run
+2024,1426275,Punjab Kings v Gujarat Titans,PBKS,GT,KXIP,BAT FIRST,142,146/7,142,146/7,GT,GT won by 3 wkts (5b rem)
+2024,1426276,Rajasthan Royals v Mumbai Indians,RR,MI,MI,BAT FIRST,179/9,183/1,183/1,179/9,RR,RR won by 9 wkts (8b rem)
+2024,1426277,Chennai Super Kings v Lucknow Super Giants,CSK,LSG,LSG,BOWL FIRST,210/4,213/4,210/4,213/4,LSG,LSG won by 6 wkts (3b rem)
+2024,1426278,Delhi Capitals v Gujarat Titans,DC,GT,GT,BOWL FIRST,224/4,220/8,224/4,220/8,DC,DC won by 4 runs
+2024,1426279,Sunrisers Hyderabad v Royal Challengers Bengaluru,SRH,RCB,RCB,BAT FIRST,206/7,171/8,171/8,206/7,RCB,RCB won by 35 runs
+2024,1426280,Kolkata Knight Riders v Punjab Kings,KKR,PBKS,KXIP,BOWL FIRST,261/6,262/2,261/6,262/2,PBKS,PBKS won by 8 wkts (8b rem)
+2024,1426281,Delhi Capitals v Mumbai Indians,DC,MI,MI,BOWL FIRST,257/4,247/9,257/4,247/9,DC,DC won by 10 runs
+2024,1426282,Lucknow Super Giants v Rajasthan Royals,LSG,RR,RR,BOWL FIRST,196/5,199/3,196/5,199/3,RR,RR won by 7 wkts (6b rem)
+2024,1426283,Gujarat Titans v Royal Challengers Bengaluru,GT,RCB,RCB,BOWL FIRST,200/3,206/1,200/3,206/1,RCB,RCB won by 9 wkts (24b rem)
+2024,1426284,Chennai Super Kings v Sunrisers Hyderabad,CSK,SRH,SRH,BOWL FIRST,212/3,134,212/3,134,CSK,CSK won by 78 runs
+2024,1426285,Kolkata Knight Riders v Delhi Capitals,KKR,DC,DC,BAT FIRST,153/9,157/3,157/3,153/9,KKR,KKR won by 7 wkts (21b rem)
+2024,1426286,Lucknow Super Giants v Mumbai Indians,LSG,MI,LSG,BOWL FIRST,144/7,145/6,145/6,144/7,LSG,LSG won by 4 wkts (4b rem)
+2024,1426287,Chennai Super Kings v Punjab Kings,CSK,PBKS,KXIP,BOWL FIRST,162/7,163/3,162/7,163/3,PBKS,PBKS won by 7 wkts (13b rem)
+2024,1426288,Sunrisers Hyderabad v Rajasthan Royals,SRH,RR,SRH,BAT FIRST,201/3,200/7,201/3,200/7,SRH,SRH won by 1 run
+2024,1426289,Mumbai Indians v Kolkata Knight Riders,MI,KKR,MI,BOWL FIRST,169,145,145,169,KKR,KKR won by 24 runs
+2024,1426290,Royal Challengers Bengaluru v Gujarat Titans,RCB,GT,RCB,BOWL FIRST,147,152/6,152/6,147,RCB,RCB won by 4 wkts (38b rem)
+2024,1426291,Punjab Kings v Chennai Super Kings,PBKS,CSK,KXIP,BOWL FIRST,167/9,139/9,139/9,167/9,CSK,CSK won by 28 runs
+2024,1426292,Lucknow Super Giants v Kolkata Knight Riders,LSG,KKR,LSG,BOWL FIRST,235/6,137,137,235/6,KKR,KKR won by 98 runs
+2024,1426293,Mumbai Indians v Sunrisers Hyderabad,MI,SRH,MI,BOWL FIRST,173/8,174/3,174/3,173/8,MI,MI won by 7 wkts (16b rem)
+2024,1426294,Delhi Capitals v Rajasthan Royals,DC,RR,RR,BOWL FIRST,221/8,201/8,221/8,201/8,DC,DC won by 20 runs
+2024,1426295,Sunrisers Hyderabad v Lucknow Super Giants,SRH,LSG,LSG,BAT FIRST,165/4,167/0,167/0,165/4,SRH,SRH won by 10 wkts (62b rem)
+2024,1426296,Punjab Kings v Royal Challengers Bengaluru,PBKS,RCB,KXIP,BOWL FIRST,241/7,181,181,241/7,RCB,RCB won by 60 runs
